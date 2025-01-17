@@ -20,4 +20,4 @@
 ## Preview
 
 ### Customer App Interface:
-<img src="JoyBuy_App_Customer/Screenshot 2025-01-17 192505.png" alt="ตัวอย่างรูปภาพ" width="400"/>
+<img src="JoyBuy_App_Customer/Screenshot 2025-01-17 192505.png" alt="ตัวอย่างรูปภาพ" width="1000"/>
